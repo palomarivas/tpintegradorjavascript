@@ -21,7 +21,7 @@ function resumen (){
 
     cantidadEntradas.value
 
-    totalCompra.innerHTML = "Total a pagar: $" + ((cantidadEntradas.value * precio) - ((categoria.value/100) * precio))
+    totalCompra.innerHTML = "Total a pagar: $" + (((cantidadEntradas.value * precio)/100) * categoria.value)
 
 }
 
