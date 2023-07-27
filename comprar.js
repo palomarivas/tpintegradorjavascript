@@ -25,3 +25,6 @@ function resumen (){
 
 }
 
+function borrarPrecio (){
+    totalCompra.innerHTML = "Total a pagar: $"
+}
