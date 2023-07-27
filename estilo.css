@@ -1,0 +1,29 @@
+
+
+.nav-link {
+    color: grey;
+}
+
+#comprartickets {
+    color: forestgreen;
+}
+
+.text-bg-info {
+    text-emphasis-color: white;
+}
+
+.card {
+border-radius: 0%;
+}
+
+.btn {
+    background-color: yellowgreen;
+    border-radius: 5px;
+    border-color: yellowgreen;
+    color: whitesmoke;
+    width: 100%;
+}
+
+#footer {
+    background-image: linear-gradient(to right, rgb(1, 23, 46), rgb(0, 69, 115));
+}
